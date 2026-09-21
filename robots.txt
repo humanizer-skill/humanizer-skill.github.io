@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://humanizer-skill.github.io/sitemap.xml
