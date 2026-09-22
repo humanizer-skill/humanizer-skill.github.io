@@ -19,3 +19,5 @@ This is an editing instruction set, not a product: a single SKILL.md file, versi
 ---
 
 *This is an independent page with no affiliation to the authors or publishers of the skill described here, and all trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
